@@ -8,4 +8,4 @@ password = ''
 for i in range(pass_len):
     password += random.choice(elements)
 
-print(password)+
+print(password)
